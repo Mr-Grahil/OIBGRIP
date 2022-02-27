@@ -1,0 +1,25 @@
+.blogItem{
+    margin:20px;
+}
+h1{
+    margin:30px 20px ;
+}
+.blogItem p{
+    font-family:sans-serif;
+    margin:5px 0;
+}
+.btn2 button{
+    margin-left:20px;
+    margin-top:10px;
+    border-radius:9px;
+    border:none;
+    padding:5px 10px;
+    font-size:15px;
+    background-color:rgb(164, 215, 235);
+    border:2px solid skyblue;
+}
+.btn2 button:hover{
+    cursor:pointer;
+    background-color:rgb(110, 191, 223);
+    border:2px solid black;
+}
